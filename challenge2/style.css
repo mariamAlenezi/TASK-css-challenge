@@ -1,8 +1,17 @@
+* {
+  box-sizing: border-box;
+}
+
 body {
   background-image: url("/assets/pokemon-bg.jpg");
-  color: black;
+}
+
+.style2 {
+  display: flex;
   width: 100vw;
   height: 100vh;
+  justify-content: center;
+  align-items: center;
 }
 
 .divformat {
@@ -27,8 +36,4 @@ img {
 p {
   text-align: center;
   padding: 10px;
-}
-
-.Style2 {
-  justify-content: center;
 }
