@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(44, 21, 65);
+  color: white;
+}
+
+h1 {
+  font-family: "Trirong", serif;
+}
+
+.Div1 {
+  text-align: center;
+  padding: 10px;
+}
+
+p {
+  font-size: small;
+  text-indent: 30px;
+}
+
+img {
+  border-radius: 10%;
+}
